@@ -36,7 +36,7 @@ import (
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleepmanage" // 统计睡眠时间
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/atri" // ATRI词库
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
@@ -60,7 +60,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ahsai"            // ahsai tts
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aifalse"          // 服务器监控
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aipaint"          // ai绘图
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/aiwife"           // 随机老婆
@@ -147,7 +147,7 @@ import (
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wantquotes"       // 据意查句
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/warframeapi"      // warframeAPI插件
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wenben"           // 文本指令大全
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wenxinvilg"       // 百度文心AI画图
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wenxinvilg"       // 百度文心AI画图
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wife"             // 抽老婆
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordcount"        // 聊天热词
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle"           // 猜单词
@@ -176,7 +176,7 @@ import (
 
 	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+	//_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
